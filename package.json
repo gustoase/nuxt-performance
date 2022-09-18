@@ -2,7 +2,7 @@
   "name": "@drozd/nuxt-performance",
   "version": "1.0.0",
   "description": "Nuxt high load functional",
-  "main": "module.ts",
+  "main": "module.js",
   "license": "MIT",
   "repository": {
     "type": "git",
