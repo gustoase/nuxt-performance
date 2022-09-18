@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "allowJs": true
+  },
+  "files": [
+    "module.ts"
+  ],
+  "exclude": ["node_modules", "@nuxt/types"]
+}
