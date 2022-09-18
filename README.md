@@ -16,6 +16,9 @@ then inside your `nuxt.config.js` add config:
 
 ```javascript
 module.exports = {
+  modules: [
+      '@drozd/nuxt-performance'
+  },
   performance: {
     renderRouteTimeCallback: (route, ms) => {
       console.log(`time render route: ${route} ${ms} ms`);
