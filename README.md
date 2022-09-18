@@ -12,7 +12,7 @@ or
 
 ```yarn add @drozd/nuxt-performance```
 
-then inside your `nuxt.config.js` add cache config:
+then inside your `nuxt.config.js` add config:
 
 ```javascript
 module.exports = {
