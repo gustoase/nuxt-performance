@@ -1,6 +1,6 @@
 {
   "name": "@drozd/nuxt-performance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt high load functional",
   "main": "module.js",
   "license": "MIT",
