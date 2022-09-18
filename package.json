@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/arash16/nuxt-ssr-cache.git"
+    "url": "git+ssh://git@github.com:gustoase/nuxt-performance.git"
   },
   "keywords": [
     "nuxt",
@@ -17,9 +17,9 @@
   ],
   "author": "Aleksandr Drozdov <bagzon@gmail.com>",
   "bugs": {
-    "url": "https://github.com/arash16/nuxt-ssr-cache/issues"
+    "url": "https://github.com/gustoase/nuxt-performance/issues"
   },
-  "homepage": "https://github.com/arash16/nuxt-ssr-cache#readme",
+  "homepage": "https://github.com/gustoase/nuxt-performance#readme",
   "dependencies": {
     "@nuxt/types": "^2.15.8"
   }
